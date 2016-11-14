@@ -1,0 +1,20 @@
+body {
+  width: 1400px;
+}
+
+.top {
+  background-image: url("https://d2rdrr51ez8te0.cloudfront.net/hero-posters/fields.jpg");
+  height: 686px;
+}
+
+.bottom {
+  background-color: blue;
+  height: 300px;
+}
+
+.hero {
+  width: 36px;
+  height: 18px;
+  margin-top: 668px;
+  margin-left: 691px;
+}
